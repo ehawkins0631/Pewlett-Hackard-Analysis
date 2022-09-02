@@ -55,4 +55,14 @@ Mentorship_Eligibility vs Retired Positions
 ![image](https://user-images.githubusercontent.com/101227930/180602314-3c2ff182-f43d-4cd8-8a0c-e973e845edb4.png)
 
 Furthermore there are zero managers to act as mentors, as shown in counting eligible mentors by title in figure 4 below.
+
 ![image](https://user-images.githubusercontent.com/101227930/180602459-196174b4-c79f-49ec-b81a-ad1799b53c6e.png)
+
+
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
