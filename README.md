@@ -49,9 +49,11 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 There will be 72,458 total employees retiring Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Assuming each mentor can mentor 25 employees, there are not enough Managers, Technique Leaders, Senior Staff, or Senior Engineers to mentor.
+
 This question is shown in the following analysis tables. This can be seen in Figure 3:
 Figure 3:
 Mentorship_Eligibility vs Retired Positions
+
 ![image](https://user-images.githubusercontent.com/101227930/180602314-3c2ff182-f43d-4cd8-8a0c-e973e845edb4.png)
 
 Furthermore there are zero managers to act as mentors, as shown in counting eligible mentors by title in figure 4 below.
