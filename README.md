@@ -24,7 +24,6 @@ There will be 72,458 total employees retiring
 * 1,090 Assistant Engineer
 * 2 Manager 
 
-
 This can be seen in Figure 1:  Retiring Tiles
 
 ![image](https://user-images.githubusercontent.com/101227930/180602291-32a1923e-3b18-4156-a2be-e6b72b3f3024.png)
@@ -59,6 +58,7 @@ Mentorship_Eligibility vs Retired Positions
 Furthermore there are zero managers to act as mentors, as shown in counting eligible mentors by title in figure 4 below.
 
 ![image](https://user-images.githubusercontent.com/101227930/180602459-196174b4-c79f-49ec-b81a-ad1799b53c6e.png)
+
 
 
 Contact:
