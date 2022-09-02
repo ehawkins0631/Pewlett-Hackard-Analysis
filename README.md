@@ -52,7 +52,6 @@ Assuming each mentor can mentor 25 employees, there are not enough Managers, Tec
 This question is shown in the following analysis tables. This can be seen in Figure 3:
 Figure 3:
 Mentorship_Eligibility vs Retired Positions
-
 ![image](https://user-images.githubusercontent.com/101227930/180602314-3c2ff182-f43d-4cd8-8a0c-e973e845edb4.png)
 
 Furthermore there are zero managers to act as mentors, as shown in counting eligible mentors by title in figure 4 below.
