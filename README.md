@@ -6,6 +6,7 @@ Pewlett-Hackard has requested data to be collected and organized to determine ro
 
 Resources
 
+
 Data Source: departments.csv, dept_managers.csv, employees.csv, dept_emp.csv, salaries.csv, titles.csv
 Software: pgAdmin 4 version 6.7
 
