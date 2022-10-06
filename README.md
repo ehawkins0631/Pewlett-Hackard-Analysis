@@ -17,6 +17,7 @@ The analysis of the Pewlett-Hacker employee data show that:
 
 Deliverable 1: The Number of Retiring Employees by Title
 
+
 There will be 72,458 total employees retiring
 * 25,916 Senior Engineer
 * 24,926 Senior Staff
