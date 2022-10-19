@@ -31,6 +31,7 @@ There will be 72,458 total employees retiring
 
 This can be seen in Figure 1:  Retiring Tiles
 
+
 ![image](https://user-images.githubusercontent.com/101227930/180602291-32a1923e-3b18-4156-a2be-e6b72b3f3024.png)
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
