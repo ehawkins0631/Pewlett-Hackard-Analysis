@@ -2,7 +2,6 @@ Pewlett-Hackard-Analysis
 
 Project Overview
 
-
 Pewlett-Hackard has requested data to be collected and organized to determine role and training impacts of the "silver tsumami". That is employees who will be reaching retirement age in the comming 3 years.
 
 
