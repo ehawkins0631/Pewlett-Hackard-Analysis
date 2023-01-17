@@ -9,7 +9,6 @@ Resources
 Data Source: departments.csv, dept_managers.csv, employees.csv, dept_emp.csv, salaries.csv, titles.csv
 Software: pgAdmin 4 version 6.7
 
-
 Analysis Results
 
 The analysis of the Pewlett-Hacker employee data show that:
@@ -27,7 +26,6 @@ There will be 72,458 total employees retiring
 * 2 Manager 
 
 This can be seen in Figure 1:  Retiring Tiles
-
 
 ![image](https://user-images.githubusercontent.com/101227930/180602291-32a1923e-3b18-4156-a2be-e6b72b3f3024.png)
 
