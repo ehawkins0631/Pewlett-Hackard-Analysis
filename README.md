@@ -9,6 +9,7 @@ Resources
 Data Source: departments.csv, dept_managers.csv, employees.csv, dept_emp.csv, salaries.csv, titles.csv
 Software: pgAdmin 4 version 6.7
 
+
 Analysis Results
 
 The analysis of the Pewlett-Hacker employee data show that:
